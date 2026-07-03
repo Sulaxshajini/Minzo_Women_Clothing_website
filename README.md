@@ -119,15 +119,7 @@ Minzo_Women_Clothing_website/
 
 ---
 
-## 📸 Screenshots
 
-> _Add screenshots of your website here to give visitors a visual preview._
-
-```
-Coming soon — add images to the /screenshots folder and link them here.
-```
-
----
 
 ## 🤝 Contributing
 
